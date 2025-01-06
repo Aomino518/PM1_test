@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello GitHub World!\n";
 
-    std::cout << "PullRequest Branch changed\n";
+    std::cout << "Cnflict changed\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
